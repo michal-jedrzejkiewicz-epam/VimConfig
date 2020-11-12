@@ -1,0 +1,15 @@
+:author: Michal Jedrzejkiewicz
+:icons: font
+
+= VimConfig
+My custom vim configuration
+
+== Installation:                                                                    
+1. git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim                 
+2. sudo apt install bat 
+3. export BAT_THEME="apprentice"
+4. cp THIS_FILE ~               
+
+NOTE: bat is needed for fzf preview higlighting
+ 
+                    
